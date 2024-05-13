@@ -1,6 +1,8 @@
 [submodule "cv.frontend"]
 	path = cv.frontend
 	url = https://github.com/Uniwersytet-Zielonogorski/cv.frontend.git
+	branch = main
 [submodule "cv.backend"]
 	path = cv.backend
 	url = https://github.com/Uniwersytet-Zielonogorski/cv.backend.git
+	branch = main
